@@ -6,7 +6,7 @@
 
 ![CINEMATIX Banner](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80)
 
-> 🔴 Live: [https://cinematix-mocha.vercel.app/](https://cinematix-mocha.vercel.app/)
+> 🔴 Live: [https://cinematix-tan.vercel.app/](https://cinematix-tan.vercel.app/)
 
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
